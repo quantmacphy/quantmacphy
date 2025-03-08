@@ -10,7 +10,7 @@
   Open-source projects that bridge science and technology—especially those that involve quantum simulations, educational platforms, and innovative visualization tools for STEM education.
 
 - 📫 **How to reach me:**  
-  Feel free to drop me an email at [your.email@example.com](quantmacexpert@gmail.com) 
+  Feel free to drop me an email at [quantmacexpert@gmail.com](quantmacexpert@gmail.com) 
 
 - 😄 **Pronouns:**  
   He/Him
